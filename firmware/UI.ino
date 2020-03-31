@@ -1,0 +1,4 @@
+#define BUTTON_UP_PIN 2
+#define BUTTON_DOWN_PIN 2
+#define BUTTON_RIGHT_PIN 2
+#define BUTTON_LEFT_PIN 2
