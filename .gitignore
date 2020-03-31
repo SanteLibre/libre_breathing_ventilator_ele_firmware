@@ -31,8 +31,8 @@
 *.out
 *.app
 
+# Visual studio files
 Debug/
 .vs/
-__vm/
 
 
